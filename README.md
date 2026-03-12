@@ -1,5 +1,12 @@
 # 💫 About Me:
-## 👋 Hi, I'm Uday Kant<br><br>I'm an Android developer passionate about building real-world apps with AI integration. Currently working on an **Investment Portfolio Tracker** using Kotlin, Firebase, and ML. I enjoy solving problems in finance, face recognition, and automation.<br><br>🎓 I'm a 3rd-year B.Tech CSE student at **Narula Institute of Technology, Kolkata**.  <br><br>🤝 Open to: Collaborations on Android & ML projects  & Web Development<br>📫 Connect: [LinkedIn](https://www.linkedin.com/in/uday-kant-61a242298/)<br>
+## 👋 Hi, I'm Uday Kant
+
+I'm a Software Developer interested in building real-world applications, AI-powered tools, and scalable systems. Currently working on an **Investment Portfolio Tracker** using Kotlin, Firebase, and ML. I enjoy solving problems in finance, AI systems, and automation.
+
+🎓 3rd-year B.Tech CSE student at **Narula Institute of Technology, Kolkata**
+
+🤝 Open to: Collaborations on Software, AI/ML, Android, and Web Development projects  
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/uday-kant-61a242298/)
 
 
 ## 🌐 Socials:
