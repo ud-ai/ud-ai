@@ -1,8 +1,6 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Uday Kant
 
-## 👋 Hi, I'm Uday Kant
-
 I'm a Software Developer interested in building real-world applications, AI-powered tools, and scalable systems. Currently working on an **Investment Portfolio Tracker** using Kotlin, Firebase, and ML. I enjoy solving problems in finance, AI systems, and automation.
 
 🎓 3rd-year B.Tech CSE student at **Narula Institute of Technology, Kolkata**
